@@ -7,3 +7,4 @@ This repository contains the Terraform infrastructure and GitHub Actions workflo
 3. Run `terraform init` and `terraform apply` in the `/terraform` folder.
 4. Push your changes to the `main` branch to trigger the deployment.
 
+![Diagram](Images/Diagram.png)
